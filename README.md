@@ -3,15 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Arbaz Diwan
 ===================================================================================================================================
 
-Software Engineer
+Senior Software Engineer
 -----------------
 
 Backend focused full-stack developer to be specific!
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Ontario, Canada
 * 🖥️  See my portfolio at [arbazdiwan.github.io](http://arbazdiwan.github.io)
 * ✉️  You can contact me at [arbazdiwan@gmail.com](mailto:arbazdiwan@gmail.com)
-* 🧠  I'm learning NesJS
+* 🧠  I'm learning Applied AI, Agentic coding
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am a nerd and learning new things give me a high.
 
